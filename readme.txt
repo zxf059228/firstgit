@@ -7,5 +7,6 @@ T must do my object!
 
 
 
-GO GO WO  !
+GO gO gO !
 master no 1.0
+Creating a new branch is quick AND simple.
