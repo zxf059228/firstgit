@@ -7,4 +7,5 @@ T must do my object!
 
 
 
-GO GO GO !
+GO GO WO  !
+master no 1.0
